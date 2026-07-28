@@ -1,9 +1,11 @@
-<div align="center">
+<p align="center">
+  <img src="./1.png" alt="Lux Linho — Building Software. Exploring the Cosmos." width="100%" />
+</p>
 
-<img src="./lux-linho-profile-card.svg" alt="Lux Linho — Physics × Computation" width="100%" />
-
-<br />
-
-<a href="https://github.com/LuxLinho"><b>GITHUB ↗</b></a>   ·   <a href="https://YOUR-WEBSITE"><b>WEBSITE ↗</b></a>   ·   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><b>LINKEDIN ↗</b></a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/LuxLinho">GITHUB ↗</a>
+  &nbsp;·&nbsp;
+  <a href="你的个人网站链接">WEBSITE ↗</a>
+  &nbsp;·&nbsp;
+  <a href="www.linkedin.com/in/lux-l-05b4322a7">LINKEDIN ↗</a>
+</p>
